@@ -1,2 +1,3 @@
-0 Pikachu
-1 Eevee
+0 Normal Glass
+1 Thug life Goggle
+2 Stylish Goggle
